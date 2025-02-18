@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter"> Начать</string>
+    <string name="cdkf"> Отслеживайте свою цель</string>
+</resources>
