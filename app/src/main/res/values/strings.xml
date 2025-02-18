@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="enter"> Начать</string>
-    <string name="cdkf"> Отслеживайте свою цель</string>
+    <string name="cdkf"> ФИО</string>
+    <string name="jhdfj"> Номер телефона</string>
+    <string name="jhdffhg"> Почта</string>
+    <string name="mmm"> Пароль</string>
+    <string name="rrr"> Зарегистрироваться</string>
 </resources>
