@@ -37,7 +37,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:background="@drawable/button3"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:textSize="12sp"
@@ -55,7 +54,6 @@
         android:layout_marginLeft="30dp"
         android:textSize="12sp"
         android:layout_marginTop="15dp"
-        android:background="@drawable/button3"
         android:gravity="bottom"
         android:text="@string/jhdfj"
         android:textColor="@color/grey"
@@ -67,7 +65,6 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
-        android:background="@drawable/button3"
         android:layout_marginRight="30dp"
         android:textSize="12sp"
         android:layout_marginLeft="30dp"
@@ -84,7 +81,6 @@
         android:layout_marginTop="16dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
-        android:background="@drawable/button3"
         android:gravity="bottom"
         android:text="@string/mmm"
         android:textColor="@color/grey"
@@ -138,16 +134,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView5" />
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/jgvgki"
-        app:layout_constraintTop_toBottomOf="@+id/imageView5"
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Имеете уже аккаунт"
-            />
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
