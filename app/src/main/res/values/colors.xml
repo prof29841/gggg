@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#CFCFCF</color>
-    <color name="green">#228F7</color>
-    <color name="greylite">#F7F8F8</color>
+    <color name="greylite">#A5A3B0</color>
+    <color name="blak2">#1D1617</color>
+    <color name="green">#81CCBF</color>
 </resources>
